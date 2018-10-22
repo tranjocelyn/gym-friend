@@ -12,8 +12,16 @@ Second, I didn't want to have to pick up my phone to reset a timer. Getting a si
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/tranjocelyn/gym-friend/master/img/GymFriend_prompt.jpg)
+### Initial Message
+When you message GymFriend, it will ask you if you want help choosing a type of workout or timing some stretches.
+![Screenshot](https://raw.githubusercontent.com/tranjocelyn/gym-friend/master/img/GymFriend_Prompt.jpg)
+
+### Deciding on a Workout
+GymFriend will tell you something to work on.
 ![Screenshot](https://raw.githubusercontent.com/tranjocelyn/gym-friend/master/img/GymFriend_1.jpg)
+
+### Timing Stretches
+GymFriend will send you messages that are 1min 30seconds apart, so you can know when to switch stretches.
 ![Screenshot](https://raw.githubusercontent.com/tranjocelyn/gym-friend/master/img/GymFriend_2.jpg)
 
 ## Tech Used
