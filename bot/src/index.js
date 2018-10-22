@@ -4,8 +4,8 @@ var FBBotFramework = require('fb-bot-framework');
 
 // Initialize
 var bot = new FBBotFramework({
-page_token: "",
-verify_token: ""
+page_token: "", // Page access token found on Fb for Developers > Products > Messenger > Token Generation
+verify_token: ""  // Should match Verify Token in FB for Developers > Products > Webhooks > Edit Subscription
 });
 
 // Setup Express middleware for /webhook
